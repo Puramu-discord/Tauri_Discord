@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories=
+Comment=A Tauri App
+Exec=tauri-discord
+StartupWMClass=tauri-discord
+Icon=tauri-discord
+Name=tauri-discord
+Terminal=false
+Type=Application
